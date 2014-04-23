@@ -10,7 +10,7 @@ Not so much new but a good reminder that I tend to use the word internet incorre
 
 Frequency of update really guides/defines whether it's a web site or a web application.
 
-Giddy. (The was squealing I will not lie.)
+Giddy. (There was squealing I will not lie.)
 
 No "aha"s or concept solidification come to mind. 
 
