@@ -6,7 +6,7 @@
 * Did you have an "aha" moments or were any concepts solidified?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
-Not so much new but a good reminder that I tend to use the word internet incorrectly. 
+Not so much new but a good reminder that I tend to use the word internet incorrectly. Um, hmm... second one - ok, can't quote it but the fact that domains are "tiered" - I had always thought it was the whole address e.g. "google.com" but .com is at a more meta level. And the fact that IP addresses are moving from (some numerical notation) to another (numerical notation) thus adding what seemed like a zillion new IP addresses was interesting. (Also frightening the idea that my fridge would some day be tweeting. I'll take my flying car that folds up into a suitcase first please.)
 
 Frequency of update really guides/defines whether it's a web site or a web application.
 
