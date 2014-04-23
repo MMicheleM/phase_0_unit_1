@@ -6,4 +6,12 @@
 * Did you have an "aha" moments or were any concepts solidified?
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
-<!-- Add your reflection here. Remove the comment markers -->
+Not so much new but a good reminder that I tend to use the word internet incorrectly. 
+
+Frequency of update really guides/defines whether it's a web site or a web application.
+
+Giddy. (The was squealing I will not lie.)
+
+No "aha"s or concept solidification come to mind. 
+
+Sadly I did not - I suspect this is something I should plan on doing (as you're now asking us repeadedly :)) Will try and do a bit more on this front in the next few weeks but I'm still working full-time so until I'm on the other side of that (May 23) I'm just trying to keep up and understand what I'm working with/on.
