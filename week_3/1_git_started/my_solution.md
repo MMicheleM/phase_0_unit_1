@@ -44,13 +44,16 @@ Define the following commands and describe how they work/what they do.
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
-		git push [alias] [branch]
+		git add 
+		git commit
+		git push [alias/origin] [branch/master]
 
 - Fetch changes
-		git fetch [alias]
-
+		git fetch [origin]
+		
 - Commit locally
 		git add
+		git commit -m "[your change message]"
 
 ## Release 5: Reflection
-	This was a bit confusing to set up - in large part I suspect due to the fact that I'd been using the desktop app for the last two weeks. It's not the concepts that are elusive just some of the semantics and syntax. I'm thrilled to be working from the command line though. Totally enjoy the practice and it makes me feel like I'm more savvy than I really am.
+	This was a bit confusing to set up - in large part I suspect due to the fact that I'd been using the desktop app for the last two weeks. It's not the concepts that are elusive just some of the semantics and syntax. I'm thrilled to be working from the command line though. Totally enjoy the practice and it makes me feel like I'm more savvy than I really am. Used gitref.org as my primary source of info (in addition to the resource links from y'all) Was good to have to practice - will be even better to start using it from here on out. (And making the smallest changes and committing.)
