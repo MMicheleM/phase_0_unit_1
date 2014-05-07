@@ -3,48 +3,54 @@ Define the following commands and describe how they work/what they do.
 
 
 #### add
-<!-- Your defnition here -->
+	Adds your new file(s) to the snapshot that a commit takes. Does NOT add new files.
 
 #### branch
-<!-- Your defnition here -->
+	Creates a branch of a repo that is your very own copy. For use primarily, I believe, when working with other folks.
 
 #### checkout
-<!-- Your defnition here -->
+	Allows you to move to a particular directory and "check it out" (as in look around, not as in borrow a library book)
 
 #### clone
-<!-- Your defnition here -->
+	Makes a copy of git repo. Usually used when you want a copy of someone else's repo but aren't trying to collaborate on the contents therein.
 
 #### commit
-<!-- Your defnition here -->
+	Snapshot of your local repo at that point in time. Gives you a point to rollback/revert to if needed/wanted. 
 
 #### fetch
-<!-- Your defnition here -->
+	To download new branches and data from a remote repo - it syncs you with another repo. 
 
 #### log
-<!-- Your defnition here -->
+	Applies a filter to your commit history which allows you to compare branches as well as to look for specific commits.
 
 #### merge
-<!-- Your defnition here -->
+	Allows you to merge your branch back into the master file.
 
 #### pull
-<!-- Your defnition here -->
+	You use it to - well, pull - any changes made to the master file down to your local file. It's like a fetch followed by a merge.
 
 #### push
-<!-- Your defnition here -->
+	You use push to - well, push - changes you've made to your local file up to the file on GitHub (or any other such remote repo you are using)
 
 #### reset
-<!-- Your defnition here -->
+	You can use this to unstage a file so that you can make separate commits (git reset HEAD) or you can use it to undo your last commit and put the file(s) back in a staged situation (git reset --soft) There is also the option to unstage files AND undo any changes in the working directory since last commit but I suspect you'd seldom truly want to use that option (git reset --hard HEAD)
 
 #### rm
-<!-- Your defnition here -->
+	Removes entries from your staging area - essentially a delete. To retain you'd want to reset rather than rm.
 
 #### status
-
+	Lets you check the status of your repo to see what files are in there, which changes still need to be committed and what branch of the repo you're workin on.
 
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
+	git push [alias] [branch]
+
 - Fetch changes
+	git fetch [alias]
+
 - Commit locally
+	git add
 
 ## Release 5: Reflection
+
