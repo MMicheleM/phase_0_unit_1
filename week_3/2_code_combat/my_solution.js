@@ -194,19 +194,19 @@ this.attackXY(50,65);
 this.attackXY(52,55);
 
 
-Questions
-What is 'this' referring to?
+// Questions
+// What is 'this' referring to?
 
-It is always referring to (and holding the value of) an object and it is usually used inside a 
-fucntion or method. (Although it can be used outside a function in the global scope - something 
-that I don't quite understand and so I'm not going to try and bluff my way through an explanatio) 
-It is notvassigned a value unitl an object invokes the funnction where 'this' is defined.
+// It is always referring to (and holding the value of) an object and it is usually used inside a 
+// fucntion or method. (Although it can be used outside a function in the global scope - something 
+// that I don't quite understand and so I'm not going to try and bluff my way through an explanatio) 
+// It is notvassigned a value unitl an object invokes the funnction where 'this' is defined.
 
-What does the () do in JavaScript?
-Holds arguments for a function. Must be used even if it's a function with no parameters.
+// What does the () do in JavaScript?
+// Holds arguments for a function. Must be used even if it's a function with no parameters.
 
-What is the point of semi-colons?
-On the same line it's separating statements. At the end of a line
+// What is the point of semi-colons?
+// On the same line it's separating statements. At the end of a line
 
 
 
