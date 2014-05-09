@@ -203,10 +203,13 @@ this.attackXY(52,55);
 // It is notvassigned a value unitl an object invokes the funnction where 'this' is defined.
 
 // What does the () do in JavaScript?
-// Holds arguments for a function. Must be used even if it's a function with no parameters.
+
+// Holds arguments for a function. Must be used even if it's a function with no parameters (and is thus
+// just an empty set of parens.)
 
 // What is the point of semi-colons?
-// On the same line it's separating statements. At the end of a line
+
+// It separates statements.
 
 
 
