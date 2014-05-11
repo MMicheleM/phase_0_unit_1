@@ -37,16 +37,16 @@ Define the following commands and describe how they work/what they do.
 
 #### reset
 	You can use this to unstage a file so that you can make separate commits (git reset HEAD) or you can use it to undo 
-	your last commit and put the file(s) back in a staged situation (git reset --soft) There is also the option to unstage 
-	files AND undo any changes in the working directory since last commit but I suspect you'd seldom truly want to use that 
-	option (git reset --hard HEAD)
+	your last commit and put the file(s) back in a staged situation (git reset --soft) There is also the option to 
+	unstage 	files AND undo any changes in the working directory since last commit but I suspect you'd seldom truly 
+	want to use that 	option (git reset --hard HEAD)
 
 #### rm
 	Removes entries from your staging area - essentially a delete. To retain you'd want to reset rather than rm.
 
 #### status
-	Lets you check the status of your repo to see what files are in there, which changes still need to be committed and 
-	what branch of the repo you're workin on.
+	Lets you check the status of your repo to see what files are in there, which changes still need to be committed 
+	and what branch of the repo you're workin on.
 
 ## Release 4: Git Workflow
 
@@ -63,8 +63,9 @@ Define the following commands and describe how they work/what they do.
 		git commit -m "[your change message]"
 
 ## Release 5: Reflection
-	This was a bit confusing to set up - in large part I suspect due to the fact that I'd been using the desktop app for 
-	the last two weeks. It's not the concepts that are elusive just some of the semantics and syntax. I'm thrilled to be 
-	working from the command line though. Totally enjoy the practice and it makes me feel like I'm more savvy than I really 
-	am. Used gitref.org as my primary source of info (in addition to the resource links from y'all) Was good to have to 
-	practice - will be even better to start using it from here on out. (And making the smallest changes and committing.)
+	This was a bit confusing to set up - in large part I suspect due to the fact that I'd been using the desktop app 
+	for the last two weeks. It's not the concepts that are elusive just some of the semantics and syntax. I'm 
+	thrilled to be 	working from the command line though. Totally enjoy the practice and it makes me feel like I'm 
+	more savvy than I really 	am. Used gitref.org as my primary source of info (in addition to the resource links 
+	from y'all) Was good to have to practice - will be even better to start using it from here on out. (And making 
+	the smallest changes and committing.)
